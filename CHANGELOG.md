@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.0...v1.0.1) (2023-01-08)
+
+
+### Performance Improvements
+
+* **Common/Reader:** Remove unused `__close` method ([309c2f0](https://github.com/sound-scape-explorer/sse-config-importer/commit/309c2f0a5f8cc35243dc77fbff30b3bb11ea06c6))
+* Remove unused `File` class ([f11ece5](https://github.com/sound-scape-explorer/sse-config-importer/commit/f11ece579a3e4d9096028070b3079f3e25d80cdb))
+* **Transformer/Lana:** Remove unnecessary assignment for writer object ([b1b3088](https://github.com/sound-scape-explorer/sse-config-importer/commit/b1b3088b693b0d4ecaa577bcc08b4723cf72ea41))
+
 # 1.0.0 (2023-01-08)
 
 
