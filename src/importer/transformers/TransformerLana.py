@@ -175,7 +175,7 @@ class TransformerLana:
             self.__exported_meta_values.append(meta_values)
 
     def __export(self):
-        self.__writer = Writer(
+        Writer(
             self.__export_filename,
             self.__exported_files,
             self.__sites,
