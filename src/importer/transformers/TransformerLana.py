@@ -44,7 +44,7 @@ class TransformerLana:
             2021: {
                 'passe': {
                     1: '/2021/balise_passe/replica1/data/',
-                    2: '/2021/balise_passe/replica2/Data/',
+                    2: '/2021/balise_passe/replica2/data/',
                     3: '/2021/balise_passe/replica3/data/',
                 },
                 'naturel': {
