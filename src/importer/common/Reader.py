@@ -25,9 +25,6 @@ class Reader:
         self.__worksheet = self.__workbook[self.__sheet]
         self.__max_row = self.__worksheet.max_row
 
-    def __close(self):
-        self.__workbook.save(self.__path)
-
     def __read_columns(self):
         self.__columns: ReaderColumnsInterface = {
             cell.value: {
