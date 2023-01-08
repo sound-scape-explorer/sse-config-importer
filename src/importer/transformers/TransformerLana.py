@@ -70,9 +70,9 @@ class TransformerLana:
                     3: '/2022/Turiroa_naturel/3replica/2022-12/data/',
                 },
                 'touriste': {
-                    1: './2022/Turiroa_touristique/1replica/2022-11/data/',
-                    2: './2022/Turiroa_touristique/2replica/2022-11/data/',
-                    3: './2022/Turiroa_touristique/3replica/2022-12/data/',
+                    1: '/2022/Turiroa_touristique/1replica/2022-11/data/',
+                    2: '/2022/Turiroa_touristique/2replica/2022-11/data/',
+                    3: '/2022/Turiroa_touristique/3replica/2022-12/data/',
                 },
             },
         }
