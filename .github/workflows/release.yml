@@ -30,7 +30,7 @@ jobs:
             semantic-release-firefox-add-on \
             aggregate-error
 
-      - run: semantic-release -b main
+      - run: semantic-release
         env:
           GH_TOKEN: ${{ secrets.PAT }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
