@@ -53,9 +53,9 @@ class TransformerLana:
                     3: '/2021/site_naturel/replica3/data/',
                 },
                 'touriste': {
-                    1: '/2021/site_touristique/replica1/data/',
-                    2: '/2021/site_touristique/replica2/data/',
-                    3: '/2021/site_touristique/replica3/data/',
+                    1: '/2021/site_touriste/replica1/data/',
+                    2: '/2021/site_touriste/replica2/data/',
+                    3: '/2021/site_touriste/replica3/data/',
                 },
             },
             2022: {
