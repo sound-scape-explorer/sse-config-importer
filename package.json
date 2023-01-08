@@ -1,7 +1,7 @@
 {
   "name": "sse-config-importer",
   "description": "Configuration importer for sound-scape-explorer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": {
     "name": "Bamdad Sabbagh",

@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.2...v1.0.3) (2023-01-08)
+
+
+### Bug Fixes
+
+* **Transformer/Lana:** Set correct paths for `2021/touriste/**` campaigns ([7341ed8](https://github.com/sound-scape-explorer/sse-config-importer/commit/7341ed8607a1adca5f2f1e16c6c376f8c32dd6c4))
+
 ## [1.0.2](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.1...v1.0.2) (2023-01-08)
 
 
