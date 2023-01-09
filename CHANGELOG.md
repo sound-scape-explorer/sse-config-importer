@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.4...v1.1.0) (2023-01-09)
+
+
+### Features
+
+* **Transformer/Lana:** Use new paths (filtered audio) ([48be3fb](https://github.com/sound-scape-explorer/sse-config-importer/commit/48be3fb6bd09513ad743c27bc52a2e4a743e60e2))
+
 ## [1.0.4](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.3...v1.0.4) (2023-01-09)
 
 
