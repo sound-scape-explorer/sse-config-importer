@@ -43,36 +43,36 @@ class TransformerLana:
         self.__path_by_year_then_site_then_replica = {
             2021: {
                 'passe': {
-                    1: '/2021/balise_passe/replica1/data/',
-                    2: '/2021/balise_passe/replica2/data/',
-                    3: '/2021/balise_passe/replica3/data/',
+                    1: '/2021_passe_1/data_filtree/',
+                    2: '/2021_passe_2/data_filtree/',
+                    3: '/2021_passe_3/data_filtree/',
                 },
                 'naturel': {
-                    1: '/2021/site_naturel/replica1/data/',
-                    2: '/2021/site_naturel/replica2/data/',
-                    3: '/2021/site_naturel/replica3/data/',
+                    1: '/2021_naturel_1/data_filtree/',
+                    2: '/2021_naturel_2/data_filtree/',
+                    3: '/2021_naturel_3/data_filtree/',
                 },
                 'touriste': {
-                    1: '/2021/site_touriste/replica1/data/',
-                    2: '/2021/site_touriste/replica2/data/',
-                    3: '/2021/site_touriste/replica3/data/',
+                    1: '/2021_touriste_1/data_filtree/',
+                    2: '/2021_touriste_2/data_filtree/',
+                    3: '/2021_touriste_3/data_filtree/',
                 },
             },
             2022: {
                 'passe': {
-                    1: '/2022/Balise_passe/1replica/2022-11/data/',
-                    2: '/2022/Balise_passe/2replica/2022-11/Data/',
-                    3: '/2022/Balise_passe/3replica/2022-12/data/',
+                    1: '/2022_passe_1/data_filtree/',
+                    2: '/2022_passe_2/data_filtree/',
+                    3: '/2022_passe_3/data_filtree/',
                 },
                 'naturel': {
-                    1: '/2022/Turiroa_naturel/1replica/2022-11/data/',
-                    2: '/2022/Turiroa_naturel/2replica/2022-11/data/',
-                    3: '/2022/Turiroa_naturel/3replica/2022-12/data/',
+                    1: '/2022_naturel_1/data_filtree/',
+                    2: '/2022_naturel_2/data_filtree/',
+                    3: '/2022_naturel_3/data_filtree/',
                 },
                 'touriste': {
-                    1: '/2022/Turiroa_touristique/1replica/2022-11/data/',
-                    2: '/2022/Turiroa_touristique/2replica/2022-11/data/',
-                    3: '/2022/Turiroa_touristique/3replica/2022-12/data/',
+                    1: '/2022_touriste_1/data_filtree/',
+                    2: '/2022_touriste_2/data_filtree/',
+                    3: '/2022_touriste_3/data_filtree/',
                 },
             },
         }
