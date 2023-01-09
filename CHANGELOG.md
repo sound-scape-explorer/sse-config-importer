@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.3...v1.0.4) (2023-01-09)
+
+
+### Bug Fixes
+
+* **Transformer/Lana:** Add year meta ([dbc0e4b](https://github.com/sound-scape-explorer/sse-config-importer/commit/dbc0e4b50a1b9ae6d9bf8f89cae1a820a8d48141))
+
 ## [1.0.3](https://github.com/sound-scape-explorer/sse-config-importer/compare/v1.0.2...v1.0.3) (2023-01-08)
 
 
