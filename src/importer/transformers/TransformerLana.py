@@ -90,6 +90,7 @@ class TransformerLana:
     def __select_meta_properties_columns(self):
         self.__meta_properties_columns = {
             'site': self.__reader.get_column('site'),
+            'annee': self.__reader.get_column('annee'),
             'replica': self.__reader.get_column('replica'),
             'snap': self.__reader.get_column('snap'),
             'profondeur': self.__reader.get_column('profondeur'),
